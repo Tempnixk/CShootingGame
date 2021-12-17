@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\uudquark\AppData\Local\GitHubDesktop\app-2.9.0\CShootingGame\키입력연습\소스.cpp(5,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\uudquark\AppData\Local\GitHubDesktop\app-2.9.0\CShootingGame\키입력연습\소스.cpp(33,7): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  키입력연습.vcxproj -> C:\Users\uudquark\AppData\Local\GitHubDesktop\app-2.9.0\CShootingGame\키입력연습\Debug\키입력연습.exe
