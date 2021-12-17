@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\uudquark\AppData\Local\GitHubDesktop\app-2.9.0\CShootingGame\슈팅게임\소스.cpp(43,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\uudquark\AppData\Local\GitHubDesktop\app-2.9.0\CShootingGame\슈팅게임\소스.cpp(67,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  슈팅게임.vcxproj -> C:\Users\uudquark\AppData\Local\GitHubDesktop\app-2.9.0\CShootingGame\슈팅게임\Debug\슈팅게임.exe
